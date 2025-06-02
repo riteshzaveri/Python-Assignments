@@ -1,6 +1,6 @@
-# Python Basic Programs
+# Python Programs
 
-This repository contains two beginner-level Python programs that demonstrate fundamental concepts like file handling, user input, and error management.
+This repository contains two Python programs that demonstrate fundamental concepts like file handling, user input, and error management.
 
 ---
 
