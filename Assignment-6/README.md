@@ -31,3 +31,24 @@ This project creates a simple calculator using Python's built-in `tkinter` libra
 
 1. Make sure you have Python installed (Python 3.x recommended).
 2. Run the script.
+
+---
+
+## Set Up a Virtual Environment (Python 3.9.18)
+
+To ensure consistency across environments, it's recommended to use a virtual environment with Python 3.9.18.
+
+### Steps:
+
+1. **Install Python 3.9.18 (if not already installed)**  
+   You can use `pyenv`, direct installer, or your OS package manager.
+
+2. **Create a virtual environment**:
+   ```bash
+   python3.9 -m venv venv
+
+3. **Activate the virtual environment**      
+   source venv/bin/activate [On Windows: venv\Scripts\activate]
+
+4. **Run the calculator script**
+   
